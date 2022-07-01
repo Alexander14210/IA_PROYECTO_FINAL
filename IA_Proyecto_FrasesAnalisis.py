@@ -12,10 +12,11 @@ from textblob import TextBlob
 
 def encontrar_polaridad(frase_inicial: str):
     df_tlor = pd.read_csv('script.csv')
+    #df_hp = pd.read_csv('Dialogue.csv')
     
     frase = TextBlob(frase_inicial)
 
-    frase_esta_en_df = False
+    frase_esta_en_df = (df_tlor['dialog'] == frase_inicial).any()
     sentimiento = ''
 
     if (df_tlor['dialog'] == frase_inicial).any():

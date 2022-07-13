@@ -11,16 +11,14 @@ from textblob import TextBlob
 
 
 def encontrar_polaridad(frase_inicial: str):
-    df_tlor = pd.read_csv('script.csv')
-    #df_hp = pd.read_csv('Dialogue.csv')
+    df_tlor = pd.read_csv('df_TLOR.csv', encoding='cp1252')
+    df_hp = pd.read_csv('Dialogue.csv')
     
     frase = TextBlob(frase_inicial)
 
-    frase_esta_en_df = (df_tlor['dialog'] == frase_inicial).any()
+    frase_esta_en_df = (df_tlor['dialog'] == frase_inicial).any() or (df_hp['Dialogue'] == frase_inicial).any()
     sentimiento = ''
 
-    if (df_tlor['dialog'] == frase_inicial).any():
-        frase_esta_en_df = True
 
     if frase.polarity >= -1.00 and frase.polarity <= -0.01:
         sentimiento = 'negativo'
@@ -36,8 +34,6 @@ def encontrar_polaridad(frase_inicial: str):
 
     return sentimiento, frase_esta_en_df
 
-df1 = pd.read_csv('script.csv') 
-#df2 = pd.read_csv('Dialogue.en.es.csv')
 
 
 

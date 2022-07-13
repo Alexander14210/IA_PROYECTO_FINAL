@@ -1,4 +1,6 @@
 .env
-
+bot.py
+df_output.csv
+referencias.md
 __pycache__/
 

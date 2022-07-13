@@ -1,4 +1,4 @@
-Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
+﻿Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1,1,8,4,I should have known that you would be here...Professor McGonagall.
 2,1,8,7,"Good evening, Professor Dumbledore. Are the rumours true, Albus?"
 3,1,8,4,"I'm afraid so, Professor. The good, and the bad."
@@ -178,15 +178,15 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 177,8,5,1,What happened to...to You-Know-Who?
 178,8,5,5,"Well, some say he died. Codswallop in my opinion. Nope, I reckon he's out there, still, too tired to go on. But one thing's absolutely certain. Something about you stumped him that night. That's why you're famous. That's why everybody knows your name. You're the boy who lived."
 179,9,71,5,"What're you looking at?  Blimey, is that the time? Sorry, Harry, I'm gonna have to leave you. Dumbledore'll be wanting his- well, he'll be wanting to see me. Now, uh, your train leaves in 10 minutes. Here's your ticket.  Stick to it, Harry that's very important. Stick to your ticket."
-180,9,71,1,"Platform 9&�? But, Hagrid, there must be a mistake. This says Platform 9&�. There's no such thing...is there?"
+180,9,71,1,"Platform 9&¾? But, Hagrid, there must be a mistake. This says Platform 9&¾. There's no such thing...is there?"
 181,9,71,139,Sorry.
 182,9,71,1,"Excuse me, excuse me."
 183,9,71,149,"Right on your left, ma'am."
-184,9,71,1,"Excuse me, sir. Can you tell me where I might find Platform 9&�?"
-185,9,71,149,"9&�? Think you're being funny, do ya?"
+184,9,71,1,"Excuse me, sir. Can you tell me where I might find Platform 9&¾?"
+185,9,71,149,"9&¾? Think you're being funny, do ya?"
 186,9,71,26,"It's the same year after year. Always packed with Muggles, of course."
 187,9,71,1,Muggles?
-188,9,71,26,"Come on. Platform 9&� this way! All right, Percy, you first."
+188,9,71,26,"Come on. Platform 9&¾ this way! All right, Percy, you first."
 189,9,71,26,"Fred, you next."
 190,9,71,19,"He's not Fred, I am!"
 191,9,71,14,"Honestly, woman, you call yourself our mother."
@@ -927,7 +927,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 926,36,8,27,"The wizard family Dobby serves, sir. Dobby is bound to serve one family forever. If they ever knew Dobby was hereooh But Dobby had to come. Dobby has to protect Harry Potter- to warn him. Harry Potter must not go back to Hogwarts School of Witchcraft and Wizardry this year! There is a plot, a plot to make most terrible things happen."
 927,36,8,1,What terrible things? Who's plotting them?
 928,36,8,27,Ooo er can't say argh...
-929,36,8,1,Ok– I- understand. You can't- say.
+929,36,8,1,Okâ€“ I- understand. You can't- say.
 930,36,8,27,"Don't make me talk, I- Errr"
 931,36,8,1,"Dobby! Dobby, put the lamp down."
 932,36,8,27,Bad Dobby.
@@ -951,7 +951,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 950,36,8,27,Harry Potter must say he's not going back to school!
 951,36,8,1,I can't. Hogwarts is my home!
 952,36,8,27,"Then, Dobby must do it, sir, for Harry Potter's own good."
-953,36,8,21,"it spread as far as the eye could see, all over the floor of this vast building, and it was this deep. And one plumber said Look at all that water.” A-and the second plumber said, Yes, and that's just the top of it!”"
+953,36,8,21,"it spread as far as the eye could see, all over the floor of this vast building, and it was this deep. And one plumber said Look at all that water.â€ A-and the second plumber said, Yes, and that's just the top of it!â€"
 954,36,8,21,I'm so sorry! It's my nephew- he's very disturbed. Meeting strangers upsets him. That's why I kept him upstairs!
 955,37,8,21,You're never going back to that school. You're never going to see those freaky friends of yours again. Never!
 956,37,8,1,Ron! Fred. George. What are you all doing here?
@@ -1189,7 +1189,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1188,46,45,46,I booked the pitch for Gryffindor today.
 1189,46,45,82,"Easy, Wood. I've got a note."
 1190,46,45,2,Uh-oh. I smell trouble.
-1191,46,45,46,"I, Professor Severus Snape, do hereby give the Slytherin team permission to practice today, owing to the need to train their new Seeker.” You've got a new Seeker. Who?"
+1191,46,45,46,"I, Professor Severus Snape, do hereby give the Slytherin team permission to practice today, owing to the need to train their new Seeker.â€ You've got a new Seeker. Who?"
 1192,46,45,1,Malfoy?
 1193,46,45,12,That's right. And that's not all that new this year.
 1194,46,45,2,Those are Nimbus Two Thousand and Ones! How did you get those?
@@ -1214,11 +1214,11 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1213,46,40,3,He called me a Mudblood.
 1214,46,40,5,He did not!
 1215,46,40,1,What's a Mudblood?
-1216,46,40,3,It means dirty blood.” Mudblood's a really foul name for someone who is Muggle-born. Someone with non-magic parents. Someone like me. It's not a term one usually hears in civilized conversation.
-1217,46,40,5,"See, the thing is, Harry, there're some wizards, like the Malfoy family, who think they're better'n everyone else because they're what people call pure blood.”"
+1216,46,40,3,It means dirty blood.â€ Mudblood's a really foul name for someone who is Muggle-born. Someone with non-magic parents. Someone like me. It's not a term one usually hears in civilized conversation.
+1217,46,40,5,"See, the thing is, Harry, there're some wizards, like the Malfoy family, who think they're better'n everyone else because they're what people call pure blood.â€"
 1218,46,40,1,That's horrible!
 1219,46,40,2,It's disgusting.
-1220,46,40,5,"And it's codswallop, to boot. Dirty blood.” Why, there isn't a wizard alive today that's not half blood or less. More ter the point, they've yet to think of a spell that our Hermione can' do. Come here Don't you think on it, Hermione. Don't you think on it for one minute eh?"
+1220,46,40,5,"And it's codswallop, to boot. Dirty blood.â€ Why, there isn't a wizard alive today that's not half blood or less. More ter the point, they've yet to think of a spell that our Hermione can' do. Come here Don't you think on it, Hermione. Don't you think on it for one minute eh?"
 1221,46,30,28,"Harry, Harry, Harry Can you possibly imagine a better way to serve detention than by helping me to answer my fan mail?"
 1222,46,30,1,Not really.
 1223,46,30,28,"Fame is a fickle friend, Harry. Celebrity is as celebrity does. Remember that."
@@ -1274,14 +1274,14 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1273,47,28,2,Are you mad?
 1274,47,28,3,"No, Harry. Even in the wizarding world, hearing voices isn't a good sign."
 1275,47,28,150,"She's right, you know."
-1276,48,61,7,"Could I have your attention, please? Right. Now, today, we will be transforming animals into water goblets. Like so. One, two, three, Vera verto. Now it's your turn. Well, who would like to go first? Ah! Mr. Weasley. One, two, three. Vera verto.”"
+1276,48,61,7,"Could I have your attention, please? Right. Now, today, we will be transforming animals into water goblets. Like so. One, two, three, Vera verto. Now it's your turn. Well, who would like to go first? Ah! Mr. Weasley. One, two, three. Vera verto.â€"
 1277,48,61,2,Ahem. Vera verto!
 1278,48,61,127,"Ha, ha, ha, ha, ha"
 1279,48,61,7,"That wand needs replacing, Mr. Weasley. Yes, Miss Granger?"
 1280,48,61,3,"Professor, I was wondering if you could tell us aboutthe Chamber of Secrets?"
 1281,48,61,7,"Well, very well. Well, you all know, of course, that Hogwarts was founded over a thousand years ago by the four greatest witches and wizards of the age: Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw, and Salazar Slytherin. Now, three of the founders coexisted quite harmoniously. One did not."
 1282,48,61,2,Three guesses who.
-1283,48,61,7,"Salazar Slytherin wished to be more selective about the students admitted to Hogwarts. He believed magical learning should be kept within all-magic families. In other words, pure-bloods.” Unable to sway the others, he decided to leave the school. Now, according to legend, Slytherin had built a hidden chamber in this castle, known as the Chamber of Secrets. Though, shortly before departing, he sealed it until that time when his own true heir returned to the school. The heir alone would be able to open the Chamber and unleash the horror within, and by so doing purge the school of all those who, in Slytherin's view, were unworthy to study magic."
+1283,48,61,7,"Salazar Slytherin wished to be more selective about the students admitted to Hogwarts. He believed magical learning should be kept within all-magic families. In other words, pure-bloods.â€ Unable to sway the others, he decided to leave the school. Now, according to legend, Slytherin had built a hidden chamber in this castle, known as the Chamber of Secrets. Though, shortly before departing, he sealed it until that time when his own true heir returned to the school. The heir alone would be able to open the Chamber and unleash the horror within, and by so doing purge the school of all those who, in Slytherin's view, were unworthy to study magic."
 1284,48,61,3,Muggle-borns.
 1285,48,61,7,"Well, naturally, the school had been searched many times. No such chamber has been found."
 1286,48,61,3,Professor? What exactly does legend tell us lies within the Chamber?
@@ -1454,7 +1454,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1453,54,46,2,How?
 1454,54,46,3,"I've got it all worked out. I filled these with a simple Sleeping Draught. Simple, but powerful. Now, once they're asleep hide them in the broomstick cupboard and pull out a few of their hairs, and put on their uniforms."
 1455,54,46,2,Whose hair are you ripping out then?
-1456,54,46,3,I've already got mine. Millicent Bulstrode– Slytherin- I got this off her robes. I'm going to go check on the Polyjuice Potion. Make sure that Crabbe and Goyle find these.
+1456,54,46,3,I've already got mine. Millicent Bulstrodeâ€“ Slytherin- I got this off her robes. I'm going to go check on the Polyjuice Potion. Make sure that Crabbe and Goyle find these.
 1457,54,46,2,Ahem
 1458,54,46,1,"Ron, maybe I should do it?"
 1459,54,46,2,Yeah. Right.
@@ -1521,7 +1521,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1520,56,46,1,"She should be out of hospital in a few days, when she stops coughing up fur balls What's this?"
 1521,56,46,2,Yuck!
 1522,56,46,1,Looks like Moaning Myrtle's flooded the bathroom.
-1523,56,46,39,"Oooh, oooh, ooooh, huh– huh. Come to throw something else at me?"
+1523,56,46,39,"Oooh, oooh, ooooh, huhâ€“ huh. Come to throw something else at me?"
 1524,56,46,1,Why would I throw something at you?
 1525,56,46,39,"Don't ask me! Here I am, minding my own business, and someone thinks it's funny to throw a book at me."
 1526,56,46,2,"But, it can't hurt if someone throws something at you. I mean, it'll just go right through you."
@@ -1568,7 +1568,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1567,58,45,2,"We don't even know this Tom Riddle. He sounds like a dirty, rotten snitch to me."
 1568,58,45,1,"The monster had killed somebody, Ron. What would any of us have done?"
 1569,58,45,3,Look. Hagrid's our friend. Why don't we just go and ask him about it?
-1570,58,45,2,"That'll be a cheerful visit! Hello, Hagrid! Tell us, have you been setting anything mad and hairy loose in the castle lately?”"
+1570,58,45,2,"That'll be a cheerful visit! Hello, Hagrid! Tell us, have you been setting anything mad and hairy loose in the castle lately?â€"
 1571,58,45,5,"Mad and hairy? You wouldn't be talking about me now, would ya?"
 1572,58,45,1,No!
 1573,58,45,2,No!
@@ -1590,7 +1590,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1589,58,43,2,Hermione!
 1590,58,43,7,"She was found near the Library, along with this. Does it mean anything to either of you?"
 1591,58,43,1,No.
-1592,58,43,7,"Could I have your attention please? Because of recent events, these new rules will be put into effect immediately. All students will return to their house common rooms by six o'clock every evening. All students will be escorted to each lesson by a teacher. No exceptions.” I should tell you this: unless the culprit behind these attacks is caught, it is likely the school will be closed."
+1592,58,43,7,"Could I have your attention please? Because of recent events, these new rules will be put into effect immediately. All students will return to their house common rooms by six o'clock every evening. All students will be escorted to each lesson by a teacher. No exceptions.â€ I should tell you this: unless the culprit behind these attacks is caught, it is likely the school will be closed."
 1593,58,43,1,"We've got to talk to Hagrid, Ron. I can't believe it's him, but if he did set the monster loose last time, he'll know how to get inside the Chamber of Secrets, and that's a start."
 1594,58,43,2,But you heard McGonagall! We're not allowed to leave the tower except for class.
 1595,58,43,1,I think it's time to get my Dad's old cloak out again.
@@ -1628,7 +1628,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1627,59,40,1,"Look! Well, come on. Come on, Fang!"
 1628,60,35,2,What?!
 1629,60,35,1,You heard what Hagrid said; 'Follow the spiders.'
-1630,60,35,2,They're headed to the Dark Forest! Why spiders! Why couldn't it be follow the butterflies?”
+1630,60,35,2,They're headed to the Dark Forest! Why spiders! Why couldn't it be follow the butterflies?â€
 1631,60,35,2,"Harry, I don't like this Harry, I don't like this at all!"
 1632,60,35,1,Shush!
 1633,60,35,2,Can we go back now?
@@ -1784,7 +1784,7 @@ Dialogue ID,Chapter ID,Place ID,Character ID,Dialogue
 1783,65,25,1,Albus Dumbledore is the greatest sorcerer in the world!
 1784,65,25,24,Dumbledore's been driven out of this castle by the mere memory of me!
 1785,65,25,1,He'll never be gone! Not as long as those who remain are loyal to him! Fawkes?
-1786,65,25,24,"So, this is what Dumbledore sends his great defender, a songbird and an old hat. Shearhas- Samnathas- Sélithaeine."
+1786,65,25,24,"So, this is what Dumbledore sends his great defender, a songbird and an old hat. Shearhas- Samnathas- SÃ©lithaeine."
 1787,66,25,24,"Let's match the power of Lord Voldemort, Heir of Salazar Slytherin, against the famous Harry Potter. Sethae- He- This. Parseltongue won't save you now, Potter. It only obeys me!"
 1788,66,25,24,"No! Your bird may have blinded the basilisk, but it can still hear you!"
 1789,66,25,24,"Yes, Potter, the process is nearly complete. In a few minutes Ginny will be dead, and I will cease to be a memory. Lord Voldemort will return- very much alive!"
